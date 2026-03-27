@@ -1,0 +1,96 @@
+,Landfill ID,Landfill Name,State,Physical Address,City,County,Zip Code,Latitude,Longitude,Year Landfill Opened,Landfill Closure Year,Current Landfill Status,Waste in Place (tons)
+0,1859,31st Street Landfill,IL,11700 West 31st Street,Westchester,Cook,60154.0,41.83894,-87.91497,1960.0,1982.0,Closed,9582454.0
+1,500,ADS/McLean County LF #2,IL,2105 W. Oakland Avenue,Bloomington,McLean,61704.0,40.472866,-89.037718,1990.0,2018.0,Closed,2626797.0
+2,503,Alton Municipal Landfill,IL,4550 N. Alby Street,Godfrey,Madison,62035.0,38.928,-90.179,1976.0,1992.0,Closed,660557.0
+3,1858,American Grading Company,IL,5100 Lawndale Avenue,McCook,Cook,60525.0,41.7994783,-87.8239651,1954.0,1995.0,Closed,7000000.0
+4,521,Beecher Landfill,IL,1055 W. Goodenow Road,Beecher,Will,60401.0,41.3915,-87.6388,1972.0,1996.0,Closed,4613270.0
+7,1856,Belleville Sanitary LF,IL,2381 Park Road,Belleville,St. Clair,62220.0,38.48359,-90.011824,1974.0,1993.0,Closed,2343402.0
+8,1861,Bloomington LF,IL,W. Oakland Avenue,Bloomington,McLean,61704.0,40.465,-89.036,1964.0,1990.0,Closed,1000000.0
+10,470,Bond County LF,IL,825 Willard Street,Greenville,Bond,62246.0,38.88497,-89.42086,1997.0,2010.0,Closed,1581904.0
+11,1864,Brickyard Disposal & Recycling Inc.,IL,601 East Brickyard Road,Danville,Vermilion,61832.0,40.09966,-87.6163,1972.0,2043.0,Open,11499994.0
+15,522,CDT LF,IL,2851 Mound Road,Rockdale,Will,60436.0,41.500371,-88.144914,1984.0,2000.0,Closed,1596000.0
+16,504,Chain of Rocks RDF,IL,3399 W. Chain of Rocks Road,Granite City,Madison,62040.0,38.76235,-90.12949,1973.0,2004.0,Closed,5965128.0
+17,474,CID Recycling and Disposal Facility,IL,13707 S. Jeffery Avenue,Chicago,Cook,60633.0,41.655,-87.578,1966.0,2007.0,Closed,31065972.0
+20,481,Clinton Landfill Inc.,IL,9550 Heritage Road,Clinton,De Witt,61727.0,40.114,-88.958,1970.0,2060.0,Open,9460052.0
+21,472,Coles County Landfill,IL,6351 West State Street,Charleston,Coles,61920.0,39.509,-88.267,1979.0,2009.0,Closed,2284442.0
+22,1862,Congress Development Company LF,IL,4100 W. Frontage Road,Hillside,Cook,60162.0,41.8721,-87.8885,1980.0,2008.0,Closed,8861616.0
+23,2306,Cottonwood Hills LF,IL,10400 Hillstown Road,Marissa,St. Clair,62257.0,38.26,-89.78,2000.0,2085.0,Open,8512831.0
+24,495,Countryside LF,IL,31725 N. Route 83,Grayslake,Lake,60030.0,42.32424,-88.0289,1978.0,2026.0,Open,16947375.0
+27,2418,Davis Junction Landfill,IL,8900 Highway 251,Davis Junction,Ogle,61020.0,42.147,-89.0825,1976.0,1995.0,Closed,
+28,480,DeKalb County LF,IL,18370 Somonauk Road,DeKalb,DeKalb,60115.0,41.898,-88.686,1958.0,2062.0,Open,7301105.0
+29,1866,Des Plaines Landfill,IL,9800 West Central Road,Des Plaines,Cook,60016.0,42.0689,-87.8653,1963.0,1983.0,Closed,6914370.0
+31,21398,Eco Hill Landfill,IL,137 Commercial Drive,Atkinson,Henry,61235.0,41.407503,-90.003647,1981.0,2034.0,Open,3097270.0
+32,499,Envirofil of Illinois Inc.,IL,13998 E. 1400th Street,Macomb,McDonough,61455.0,40.484333,-90.638,1970.0,2171.0,Open,4446233.0
+33,487,Environtech LF,IL,1800 Ashley Road,Morris,Grundy,60450.0,41.37299,-88.4026,1987.0,2016.0,Closed,7904743.0
+36,471,Five Oaks RDF,IL,890 E. 1500 North Road,Taylorville,Christian,62568.0,39.54693,-89.29487,1978.0,2057.0,Open,13560840.0
+37,2307,Freeport Municipal Landfill #4,IL,2133 S. Walnut Road,Freeport,Stephenson,61032.0,42.2657,-89.6212,1987.0,2003.0,Closed,780000.0
+38,483,Greene Valley RDF,IL,9 S. 610 Greene Road,Naperville,DuPage,60565.0,41.73045,-88.07444,1974.0,1996.0,Closed,16282279.0
+40,2164,H.O.D. Landfill,IL,McMillen Road,Antioch,Lake,60002.0,42.476,-88.082,1963.0,1984.0,Closed,2000000.0
+41,524,Herrin Municipal,IL,Landfill Road Rural Route 1,Herrin,Williamson,,37.776,-89.0055,1975.0,1994.0,Closed,1980816.0
+42,2313,Hickory Ridge Landfill Inc.,IL,32246 375th Street,Baylis,Pike,62314.0,39.698,-90.914,1976.0,2065.0,Open,4148663.0
+43,1872,Illinois Landfill Inc.,IL,16310 E. 4000 North Road,Hoopeston,Vermilion,60942.0,40.445375,-87.63883,1975.0,2198.0,Open,2596391.0
+44,488,Illinois Waste Systems Landfill,IL,County Road 9 at Chicago and Eastern Railroad,Milford,Iroquois,60953.0,40.6306604,-87.7187113,1975.0,1993.0,Closed,1900000.0
+45,12145,Indian Creek Landfill #2,IL,24501 W. McMullen Road,Hopedale,Tazewell,61747.0,40.427915,-89.464918,2004.0,2044.0,Open,5334514.0
+46,2420,Jerseyville Sanitation Landfill,IL,1336 Crystal Lake Road,Jerseyville,Jersey,62052.0,39.0869,-90.3189,1965.0,1992.0,Closed,
+47,489,K & H Disposal Landfill,IL,U.S. Route 52,Donovan,Iroquois,60931.0,40.8833,-87.6161,1974.0,1993.0,Closed,8887255.0
+48,493,Kankakee County RDF,IL,6259 S. Route 45 & 52,Chebanse,Kankakee,60922.0,41.031,-87.8624,1976.0,2005.0,Closed,3336571.0
+51,2308,Knox County LF #3,IL,996 Knox Road 2150 North,Oneida,Knox,61467.0,41.015,-90.248,1974.0,2026.0,Open,3465503.0
+52,475,Lake LF,IL,1300 Willow Road,Northbrook,Cook,60062.0,42.1055,-87.8125,1970.0,1993.0,Closed,15786494.0
+56,476,Land & Lakes #1 and #2,IL,1220 East 138th Street,Park Ridge,Cook,60068.0,41.644648,-87.59333,1971.0,1993.0,Closed,11183620.0
+57,477,Land & Lakes #3,IL,2000 E. 122nd Street,Chicago,Cook,60633.0,41.6737,-87.5732,1977.0,1998.0,Closed,3307390.0
+58,2322,Land & Lakes/Willow Ranch Landfill,IL,1371 N. Joliet Road,Romeoville,Will,60446.0,41.670518,-88.062795,1981.0,1992.0,Closed,2000000.0
+59,2309,LandComp Landfill,IL,2840 E. 13th Road,Ottawa,LaSalle,61350.0,41.347899,-88.913509,1998.0,2064.0,Open,4543945.0
+60,2310,Landfill 33 Ltd.,IL,1713 S. Willow Street,Effingham,Effingham,62401.0,39.101,-88.526,1981.0,2024.0,Open,2246099.0
+61,1857,Lansing LF,IL,170th Street,Lansing,Cook,60438.0,41.586111,-87.55,,,Closed,1300000.0
+62,523,Laraway RDF,IL,21101 W. Laraway Road,Elwood,Will,60421.0,41.45101,-88.10807,1972.0,2004.0,Closed,693240.0
+63,2324,Lee County Landfill,IL,"1214 South Bataan Road
+1279 North Bataan Road",Dixon,Lee,61021.0,41.731,-89.395,1981.0,2163.0,Open,20573489.0
+66,1877,Litchfield-Hillsboro LF,IL,2782 Landfill Trail,Litchfield,Montgomery,62056.0,39.17,-89.615,1976.0,2040.0,Open,3359367.0
+67,497,Livingston LF,IL,14206 E. 2100 North Road,Pontiac,Livingston,61764.0,40.93178,-88.65735,1978.0,2044.0,Open,55432490.0
+69,484,Mallard Lake LF,IL,26 W. 580 Schick Road,Hanover Park,DuPage,60133.0,41.9525,-88.1442,1975.0,1999.0,Closed,22433253.0
+70,516,Milam Recycling and Disposal Facility,IL,601 Madison Road,East St. Louis,St. Clair,62201.0,38.6547,-90.1302,1965.0,2034.0,Open,31471426.0
+72,514,Modern Landfill,IL,"3521 Centreville Avenue
+near IL Route 158 & Mine Haul Road",Belleville,St. Clair,62226.0,38.48846,-90.02839,1950.0,1997.0,Closed,6014100.0
+73,486,Morris Community LF,IL,1501 Ashley Road,Morris,Grundy,60450.0,41.3716,-88.4026,1976.0,2002.0,Closed,1022000.0
+74,482,Multi-County LF,IL,,Villa Grove,Douglas,,39.875,-88.14,1975.0,1991.0,Closed,1307103.0
+76,1899,Orchard Hills Landfill Inc.,IL,8290 N. IL Highway 251,Davis Junction,Ogle,61020.0,42.14322,-89.0769,1998.0,2035.0,Open,34856361.0
+79,478,Paxton LF Corporation #2,IL,,Chicago,Cook,,41.68167,-87.57284,1976.0,1992.0,Closed,9766782.0
+80,517,Pekin Metropolitan Landfill,IL,11916 Towerline Road,Pekin,Tazewell,61554.0,40.5664,-89.6282,1970.0,2001.0,Closed,3329169.0
+81,21224,Peoria City/County Landfill #3,IL,11501 Cottonwood Road,Brimfield,Peoria,61517.0,40.742827,-89.79292,2023.0,,Unknown,
+82,1868,Peoria City/County Landfills #1 and #2,IL,11501 W. Cottonwood Road,Brimfield,Peoria,61517.0,40.742538,-89.798606,1976.0,2024.0,Open,9004764.0
+84,509,Peoria Disposal Company #1,IL,4349 W. Southport Road,Peoria,Peoria,61528.0,40.7655,-89.6983,1979.0,2008.0,Closed,889200.0
+85,2312,"Perry Ridge Landfill, Inc.",IL,6305 Sacred Heart Road,Du Quoin,Perry,62832.0,38.035,-89.301,2004.0,2040.0,Open,1149365.0
+86,2315,Prairie View RDF,IL,29755 S. Prairie View Drive,Wilmington,Will,60481.0,41.34,-88.13,2004.0,2036.0,Open,12880962.0
+88,12144,Quad Cities Landfill Phase IV,IL,13606 Knoxville Road,Milan,Rock Island,61264.0,41.379843,-90.510288,1998.0,2059.0,Open,8445426.0
+89,510,"Quad Cities LF Phases 1, 2, & 3",IL,13606 Knoxville Road,Milan,Rock Island,61264.0,41.3825,-90.5128,1983.0,1999.0,Closed,5128385.0
+90,469,Quincy Landfills #2 and #3,IL,Old Broadway Road,Quincy,Adams,62301.0,39.9295,-91.27622,1967.0,1978.0,Closed,2187359.0
+91,1873,RCS Landfill,IL,1336 Crystal Lake Road,Jerseyville,Jersey,62052.0,39.08687,-90.31789,,2031.0,Open,584700.0
+92,527,River Bend Prairie Landfill,IL,"801 E. 138th Street
+INT with Cottage Grove Avenue",Dolton,Cook,60419.0,41.6446,-87.5979,1974.0,2014.0,Closed,12024778.0
+93,507,Rochelle Municipal #2,IL,6513 South Mulford Road,Rochelle,Ogle,61068.0,41.926,-88.997,1972.0,2080.0,Open,5651830.0
+94,1874,Roxana LF,IL,4600 Cahokia Creek Road,Edwardsville,Madison,62025.0,38.8274,-90.0125,1975.0,2049.0,Open,30941575.0
+96,2316,Salem Municipal Landfill #2,IL,900 E. Lake Street,Salem,Marion,62881.0,38.6165,-88.9453,1977.0,2012.0,Closed,107200.0
+97,2317,"Saline County Landfill, Inc.",IL,5000 Whitesville Road,Harrisburg,Saline,62946.0,37.671012,-88.462125,1983.0,2006.0,Closed,1269000.0
+98,513,Sangamon Valley Landfill Inc.,IL,2565 Sand Hill Road,Springfield,Sangamon,62707.0,39.860188,-89.607711,1981.0,2034.0,Open,4177261.0
+100,491,Settler's Hill Recycling & Disposal Facility,IL,1031 E. Fabyan Parkway,Batavia,Kane,60510.0,41.86965,-88.28543,1968.0,2006.0,Closed,19560637.0
+102,529,South Barrington Landfill,IL,55 E. Mundhank Road,South Barrington,Cook,60010.0,42.0816,-88.13,1937.0,1985.0,Closed,1000000.0
+103,490,Southern Illinois Regional LF,IL,1540 Landfill Road,De Soto,Jackson,62924.0,37.8417,-89.258,1975.0,2054.0,Open,10206794.0
+104,2318,Spoon Ridge Landfill,IL,"10 Spoon Ridge Road
+Route 1, Highway 97 North",Fairview,Fulton,61432.0,40.6558,-90.1634,1993.0,2008.0,Closed,285603.0
+105,498,Streator Area LF No. 3,IL,2111 Coalville Road,Streator,Livingston,61364.0,41.0916,-88.8521,1982.0,2005.0,Closed,2500000.0
+106,2311,Sumner Landfill,IL,SR-250 & E. 550th Avenue,Sumner,Lawrence,62466.0,38.7167,-87.8063,1998.0,2059.0,Open,2281433.0
+107,1869,Taylor Ridge LF,IL,8400 77th Street West,Taylor Ridge,Rock Island,61284.0,41.44378,-90.67702,1972.0,1999.0,Closed,11168558.0
+108,518,Tazewell RDF,IL,3550 E. Washington Street,East Peoria,Tazewell,61611.0,40.68181,-89.51613,1975.0,2007.0,Closed,6701428.0
+110,511,Upper Rock Island County LF,IL,17201 20th Avenue North,East Moline,Rock Island,61244.0,41.53629,-90.3766,1981.0,2040.0,Open,8553239.0
+113,11060,Urbana Municipal #1,IL,1210 E. University Avenue,Urbana,Champaign,61801.0,40.109433,-88.193347,1976.0,1984.0,Closed,634500.0
+114,11080,Urbana Municipal #2,IL,1210 E. University Avenue,Urbana,Champaign,61802.0,40.109433,-88.193347,1983.0,1986.0,Closed,235000.0
+115,501,Valley View Landfill Inc.,IL,1363 Bear Road,Decatur,Macon,62522.0,39.8245,-89.0432,1957.0,2053.0,Open,10243609.0
+117,1870,Viola LF,IL,,Viola,Mercer,,41.24,-90.62,1973.0,1992.0,Closed,900000.0
+118,519,Washington LF Inc.,IL,Guth Road & Foster Road,Washington,Tazewell,61571.0,40.6901,-89.4163,1974.0,1997.0,Closed,1529502.0
+119,2319,Wayne County Landfill,IL,1339 IL Highway 15,Fairfield,Wayne,62837.0,38.38,-88.447,1989.0,2091.0,Open,1940277.0
+120,2320,West End Disposal Facility,IL,1710 McFarland Road,Thompsonville,Saline,62890.0,37.875604,-88.702646,2002.0,2081.0,Open,1305770.0
+121,2321,Wheatland Prairie RDF,IL,25244 W. 111th Street,Plainfield,Will,60585.0,41.684,-88.239,1987.0,2001.0,Closed,4030302.0
+122,2314,Whiteside County Landfill,IL,18762 Lincoln Road,Morrison,Whiteside,61270.0,41.79635,-89.88612,1970.0,2054.0,Open,8874962.0
+123,2323,Winnebago Landfill,IL,8403 Lindenwood Road,Rockford,Winnebago,61109.0,42.1597,-89.0554,1972.0,2032.0,Open,29143872.0
+126,492,Woodland RDF,IL,7 N. 500 Route 25,South Elgin,Kane,60177.0,41.98077,-88.269,1976.0,2002.0,Closed,7800000.0
+128,494,Zion Landfill,IL,701 Green Bay Road,Zion,Lake,60099.0,42.48483,-87.88497,1975.0,2027.0,Open,23757247.0
